@@ -1,4 +1,4 @@
-module github.com/burakorkmez/react-go-tutorial
+module github.com/skushal746/React-Go
 
 go 1.19
 
